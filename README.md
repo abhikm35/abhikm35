@@ -16,17 +16,21 @@ Here are some ideas to get you started:
 -->
 
 🎓 Computer Engineering Student @ Georgia Tech
+
 💡 Passionate about FPGA design, hardware verification, computer architecture, and hardware acceleration
+
 🔍 Exploring the intersection of signal processing, embedded systems, and hardware acceleration
 
-🧠 About Me
-🔭 I’m currently working on streamlining EDA tool workflows @ Sharc Lab
+## 🧠 About Me
+
+🔭 I’m currently working on streamlining EDA/HLS tool workflows @ Sharc Lab 🦈
 
 🌱 Currently learning about GPU Architecture, OS, EDA Synthesis tools
 
 🧩 Interested in hardware-software co-design, system-level simulation, and computer architecture
 
 💬 Ask me about FPGAs, VHDL/SystemVerilog, or verification flows
-⚙️ Tools I often use: Vivado, Quartus, Cadence Xcelium, Synopsys VCS, C++, Linux
 
-📈 Outside of engineering, I enjoy listening/playing jazz on my saxophone, working out, and playing/watching soccer (❤💙 𝔽ℂ 𝔹𝕒𝕣𝕔𝕖𝕝𝕠𝕟𝕒 💙❤)
+⚙️ Tools I often use: Vivado, Quartus, Cadence Xcelium, Synopsys VCS, C/C++, Linux
+
+🎷 Outside of engineering, I enjoy listening/playing jazz on my saxophone, working out, and playing/watching soccer (❤💙 𝔽ℂ 𝔹𝕒𝕣𝕔𝕖𝕝𝕠𝕟𝕒 💙❤)
