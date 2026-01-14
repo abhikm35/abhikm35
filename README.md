@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm Abhik
-🎓 Computer Engineering Student @ Georgia Tech
-💡 Passionate about FPGA design, hardware verification, computer architecture, and hardware acceleration
-🔍 Exploring the intersection of signal processing, embedded systems, and hardware acceleration
 
 <!--
 **abhikm35/abhikm35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Computer Engineering Student @ Georgia Tech
+💡 Passionate about FPGA design, hardware verification, computer architecture, and hardware acceleration
+🔍 Exploring the intersection of signal processing, embedded systems, and hardware acceleration
+
 🧠 About Me
 🔭 I’m currently working on streamlining EDA tool workflows @ Sharc Lab
 
